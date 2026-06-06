@@ -2,9 +2,9 @@
 
 ## Overview
 
-This project analyzes FRED macroeconomic data to study relationships between inflation, unemployment, and interest rates using time-series $
+This project analyzes FRED macroeconomic data to study relationships between inflation, unemployment, and interest rates using time-series.  
 
-The goal is to {motivation; e.g., understand macroeconomic dynamics, build forecasting models, test economic hypotheses, etc.}.
+The goal is to {motivation; e.g., understand macroeconomic dynamics, build forecasting models, test economic hypotheses, etc.}.  
 
 ## Motivation
 
@@ -12,10 +12,10 @@ The goal is to {motivation; e.g., understand macroeconomic dynamics, build fore
 
 ## Data
 
-**Source:** Federal Reserve Economic Data
-**Variables Used:** CPI/inflation rate, unemployment rate, federal funds rate, etc.
-**Frequency:** {Insert frequency of the data; e.g. daily, monthly, quarterly, annually, etc.}
-**Time Period:** 1980-2025
+**Source:** Federal Reserve Economic Data  
+**Variables Used:** CPI/inflation rate, unemployment rate, federal funds rate, etc.  
+**Frequency:** {Insert frequency of the data; e.g. daily, monthly, quarterly, annually, etc.}  
+**Time Period:** 1980-2025  
 
 Data is accessed via the fredapi Python package for FRED time series or downloaded directly from FRED.
 
