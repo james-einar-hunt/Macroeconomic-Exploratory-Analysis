@@ -13,3 +13,6 @@ __pycache__/
 
 # Environment variables
 .env
+
+# Packaging artifacts
+*.egg-info/
